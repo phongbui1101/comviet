@@ -10,8 +10,6 @@
 	<!-- Meta tag Keywords -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="UTF-8" />
-	<meta name="keywords" content="Electro Store Responsive web template, Bootstrap Web Templates"/>
-	
 	<script src="./js/jquery-3.3.1.min.js"></script>
 	<!-- //jquery -->	
 	<script src="bootstrap-5.0.2-dist/js/bootstrap.min.js"></script>
