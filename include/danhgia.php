@@ -10,7 +10,7 @@
         </form>
     </div>
     <div class="d-flex justify-content-end mt-3 feedback-logo">
-        <img src="images/logo_feedback.png" class="effect_icon" style="width:15%;""alt="" data-bs-toggle="modal" data-bs-target="#danh_gia">
+        <img src="images/logo_feedback.png" class="effect_icon" style="width:15%;" alt=" " data-bs-toggle="modal" data-bs-target="#danh_gia">
     </div>
 </div>
 
