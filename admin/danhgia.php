@@ -22,7 +22,7 @@
     </thead>
     <tbody>
     <?php  
-    if(isset($_POST['tim_kiem'])) {
+    if(isset($_POST['tim_kiem'])) { // tim kiem ten khach hang
 
         $tukhoa = $_POST['tu_khoa'];
         
