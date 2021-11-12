@@ -1,4 +1,4 @@
-<?php if(isset($_POST['xoa_danh_gia'])){
+<?php if(isset($_POST['xoa_danh_gia'])){ //xoa danh gia khoi database
     $id_danh_gia =  $_POST['xoa_danh_gia'];
     $sql_xoa = mysqli_query($con,"DELETE FROM danh_gia WHERE id_danh_gia=' $id_danh_gia'");
 	}
@@ -7,7 +7,7 @@
   <h1 class="h2">Đánh giá</h1>
 </div>
  
-<div class="table-responsive">
+<div class="table-responsive"><!-- hien thi danh gia cua khach hang -->
     <table class="table table-striped align-middle table-sm" >
     <thead>
     <tr class ="align-middle">
