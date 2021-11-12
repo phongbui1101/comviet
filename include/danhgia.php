@@ -28,7 +28,6 @@
                 <div class="form-check mb-2"> <input name="feedback" type="radio" value="3"> <label class="ml-3">Bình thường</label> </div>
                 <div class="form-check mb-2"> <input name="feedback" type="radio" value="4"> <label class="ml-3">Tệ</label> </div>
                 <div class="form-check mb-2"> <input name="feedback" type="radio" value="5"> <label class="ml-3">Rất tệ</label> </div>
-                <!--Text Message-->
                 <div class="text-center">
                     <h4>Những điều chúng tôi cần cải thiện?</h4>
                     <textarea class="form-note" type="textarea" placeholder="Lời nhắn của quý khách..." rows="3" style="width:80%;" name="detail_feedback"></textarea> 
