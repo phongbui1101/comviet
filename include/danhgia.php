@@ -5,12 +5,12 @@
     <div class="d-flex justify-content-center mt-3"> <img src="images/waitting.gif" alt="" class="img-thumbnail"></div>
 
     <div class="d-flex justify-content-center mt-3">
-        <!-- <form  action="#" method="POST">
-            <button type="submit" name="reset" class="btn btn-outline-warning"> Tiếp tục đặt món </button>
-        </form> -->
         <form action="#" method="POST">
-            <button type="submit" name="reset" class="btn btn-info"> Tiếp tục đặt món </button>
+            <button type="submit" name="reset" class="btn btn-outline-warning"> Tiếp tục đặt món </button>
         </form>
+        <!-- <form action="#" method="POST">
+            <button type="submit" name="reset" class="btn btn-info"> Tiếp tục đặt món </button>
+        </form> -->
     </div>
     <div class="d-flex justify-content-end mt-3 feedback-logo">
         <img src="images/logo_feedback.png" class="effect_icon" style="width:15%;" alt=" " data-bs-toggle="modal"
